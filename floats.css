@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+body {
+
+}
+
+header {
+	 background: #ccc;
+	 padding: 20px;
+	 margin-bottom: 20px;
+	 color: #333;
+}
